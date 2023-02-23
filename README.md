@@ -2,6 +2,8 @@
 
 - php/swoole/hyperf  
   - [hyperf搭建与使用RPC微服务](https://github.com/he426100/Web-Clipper/issues/55)
+  - [PHP-Swoole入门到自杀免费教程](https://github.com/he426100/Web-Clipper/issues/61)
+  - [Advanced-PHP-in-UNIX/process](https://github.com/he426100/Web-Clipper/issues/59)
 - go/filecoin  
   - [Filecoin中的WinningPoSt是什么？区块奖励是如何产生的？](https://github.com/he426100/Web-Clipper/issues/51)
 - js/node
@@ -11,6 +13,7 @@
 - linux  
   - [rsync 用法教程](https://github.com/he426100/Web-Clipper/issues/54)
   - [<<Linux性能优化实战>> IO篇 阅读笔记](https://github.com/he426100/Web-Clipper/issues/47)
+  - [iperf3网络测试工具](https://github.com/he426100/Web-Clipper/issues/45)
 - mysql  
   - [事务](https://github.com/Vonng/ddia/blob/master/ch7.md)
   - [SQL 事务隔离实用指南](https://github.com/xitu/gold-miner/blob/master/TODO/practical-guide-sql-isolation.md)
